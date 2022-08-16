@@ -54,7 +54,7 @@ nav a:hover {
 
 #banner {
     width: 100%;
-    height: auto;
+    height: 500px;
     background-color: white;
 }
 
@@ -83,4 +83,19 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.location {
+    list-style-type: none;
+    text-align: center;
+}
+.phone {
+    display: inline-block;
+}
+.email {
+    display: inline-block;
+    
+}
+.address {
+    display: inline-block;
 }
